@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+<TextView
+    android:id="@+id/dialogtitle"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="20dp"
+    android:textColor="@color/white"
+    android:text="@string/review_send_successfully"
+    android:textSize="18dp"
+    android:textAlignment="center"
+    android:background="@color/primarycolor"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="50dp">
+    <TextView
+        android:id="@+id/message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:textAlignment="center"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:lineSpacingExtra="2dp"
+        android:text="@string/your_review_has_been_send_successfully_n_nthank_you"/>
+    <ProgressBar
+        android:id="@+id/dialogprogress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:visibility="gone"
+        android:layout_gravity="center"/>
+    </LinearLayout>
+</LinearLayout>

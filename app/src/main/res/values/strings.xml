@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Resto</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="foodreview">What about the Price and Quantity of food?</string>
+    <string name="socialreview">Would you like to follow our FB/INSTAGRAM?</string>
+    <string name="upcomming">Your mobile number will help us to notify you about the latest offers,Special Foods and more</string>
+    <string name="servicerate">How would you rate our services?</string>
+    <string name="ambiencerate">How would you rate the ambience &amp; Celanese? </string>
+    <string name="visitagain">Would you like to visit again </string>
+    <string name="foodquality">How was the taste and quality of food? </string>
+    <string name="review_send_successfully">Review Send Successfully</string>
+    <string name="your_review_has_been_send_successfully_n_nthank_you">Your review has been send successfully .\n\nThank you</string>
+
+    <string name="review_not_send">Review not Posted </string>
+    <string name="review_not_send_messg">Server did not receive your review. \n  Please Try again later </string>
+    <string name="sending_review">Sending Review</string>
+    <string name="your_review_is_being_send_n_n_please_wait">Your review is being send .\n\n Please wait</string>
+</resources>
