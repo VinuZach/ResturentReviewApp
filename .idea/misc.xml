@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/ambience.xml" value="0.2195" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/centergradient.xml" value="0.196" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/default_pager_dot.xml" value="0.207" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/emotionless_emoji_color.xml" value="0.2195" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/emotionless_emoji_nocolor.xml" value="0.2195" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/emotionless_emoji_selector.xml" value="0.2195" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/emotionless_selector.xml" value="0.2195" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/fooditem_yellowstroke.xml" value="0.2195" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/happy_emoji_selector.xml" value="0.2195" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/hearteye_emoji_selector.xml" value="0.2195" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/ic_launcher_background.xml" value="0.196" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/ic_mobile.xml" value="0.2195" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/ic_yes_ash_nocolor.xml" value="0.2195" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/noicon_selector.xml" value="0.2195" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/repeat_cloud.xml" value="0.196" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/repeate.xml" value="0.196" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/response_textcolor.xml" value="0.2195" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/rounded_corner.xml" value="0.196" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/sad_emoji_nocolor.xml" value="0.2195" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/sadface_emoji_selector.xml" value="0.2195" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/selected_pager_dot.xml" value="0.207" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/tab_pager_selector.xml" value="0.207" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/text_color.xml" value="0.2195" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/text_color_selector.xml" value="0.2195" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/tile_cloud.xml" value="0.2195" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/www.xml" value="0.196" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/drawable/yesicon_selecto.xml" value="0.2195" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/layout/activity_splash_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/layout/bottom_sheet.xml" value="0.33" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/layout/dialog_completepost.xml" value="0.36666666666666664" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/layout/dialog_sendingreview.xml" value="0.36666666666666664" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/layout/fragment_questions.xml" value="0.18802083333333333" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/layout/view_rating.xml" value="0.33" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/layout/view_twooptions.xml" value="0.25" />
+        <entry key="..\:/androidProject/RestaurantFeedback/app/src/main/res/layout/view_userentry.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
