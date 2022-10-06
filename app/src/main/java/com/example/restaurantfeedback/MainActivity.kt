@@ -42,8 +42,6 @@ class MainActivity : FragmentActivity(), View.OnClickListener
     lateinit var screenSliderAdapter: ScreenSliderAdapter
 
 
-
-
     //rating
     lateinit var rating_poorParLinearLayout: LinearLayout
     lateinit var rating_okParLinearLayout: LinearLayout
