@@ -1,7 +1,6 @@
 Resturent review application 
 
-Consists of series of question with corresponding modes of answering  (multiple choice,text yes or no etc)
-
+Consists of series of question with corresponding modes of answering  (multiple choice,text yes or no etc) using retrofit for uploading
 
 
 ![Screenshot 2024-08-28 at 3 37 49 PM](https://github.com/user-attachments/assets/5e6bbb28-e4e9-4ef7-a11a-fe21b6541c4b)
